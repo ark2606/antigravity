@@ -50,7 +50,7 @@ const timeline = [
     emoji: '📚',
     points: [
       'Stream: Science (Physics, Chemistry, Mathematics, Computer Science)',
-      'Scored 85%+ in board examinations',
+      'Scored 73.2% in board examinations',
     ],
   },
 ]
