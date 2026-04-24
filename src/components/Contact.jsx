@@ -116,7 +116,7 @@ export default function Contact() {
                 <label htmlFor="name" className={styles.label}>Full Name</label>
                 <input
                   id="name" name="name" type="text" required
-                  className={styles.input} placeholder="John Doe"
+                  className={styles.input} placeholder="Your Full Name"
                   value={form.name} onChange={handleChange}
                 />
               </div>
@@ -124,7 +124,7 @@ export default function Contact() {
                 <label htmlFor="email" className={styles.label}>Email Address</label>
                 <input
                   id="email" name="email" type="email" required
-                  className={styles.input} placeholder="john@example.com"
+                  className={styles.input} placeholder="Your Email Address"
                   value={form.email} onChange={handleChange}
                 />
               </div>
